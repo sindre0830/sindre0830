@@ -1,4 +1,8 @@
 <!-- about me -->
+<div align="center">
+    <!-- GIF source: https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE -->
+    <img height="250" src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e479g9yicc3yr5h7m9s490ixifomay7paggqec2xd4m&rid=giphy.gif&ct=s"/>
+</div>
 <h1 align="center">About me</h1>
 <!-- socials -->
 <div align="center">
