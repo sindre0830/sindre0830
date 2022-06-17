@@ -5,9 +5,9 @@
     <a src="https://www.linkedin.com/in/sindre0830/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
     <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
 </p>
-<h5 align="center">
+<h3 align="center">
 I have a bachelor's degree in programming from NTNU, and I have applied for a master's degree in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my bachleaors thesis, to get a more indepth understanding.
-</h5>
+</h3>
 <!-- badges -->
 <p align="center">
     <img height=50 alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
