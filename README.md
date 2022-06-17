@@ -1,9 +1,7 @@
 <!-- about me -->
-<div align="center">
-    <!-- GIF source: https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE -->
-    <img height="250" src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e479g9yicc3yr5h7m9s490ixifomay7paggqec2xd4m&rid=giphy.gif&ct=s"/>
-</div>
-<h1 align="center">About me</h1>
+<!-- GIF source: https://giphy.com/stickers/abu-dhabi-adnoc-energy-for-life-Qx5iidUF67vTlqa9s2 -->
+<img width="100" style="float: left" src="https://media2.giphy.com/media/Qx5iidUF67vTlqa9s2/giphy.gif?cid=ecf05e4793mhk85ij3ednhd26vvbmtvlssjjohhgc0vhdddb&rid=giphy.gif&ct=s"/>
+<h1 align="center" style="margin-right: 100px">About me</h1>
 <!-- socials -->
 <div align="center">
     <a src="https://www.linkedin.com/in/sindre0830/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
