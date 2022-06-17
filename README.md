@@ -3,8 +3,8 @@
     <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sindre0830&show_icons=true&count_private=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre0830&layout=compact&theme=dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sindre0830&theme=dark"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sindre0830&show_icons=true&count_private=true&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindre0830&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre0830&layout=compact&theme=dark"/>
+</p>
