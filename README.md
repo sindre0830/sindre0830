@@ -1,3 +1,13 @@
+<!-- about me -->
+<h1 align="center">About me</h1>
+<!-- socials -->
+<p align="center">
+    <a src="https://www.linkedin.com/in/sindre0830/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
+    <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
+</p>
+<h6 align="center">
+I have a bachelor's degree in programming from NTNU, and I have applied for a Master's degree in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my bachleaors thesis, to get a more indepth understanding.
+</h6>
 <!-- badges -->
 <p align="center">
     <img height=50 alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -23,11 +33,7 @@
     <img height=50 alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img height=50 alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 </p>
-<!-- socials -->
-<p align="center">
-    <a src="https://www.linkedin.com/in/sindre0830/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
-    <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
-</p>
+<br>
 <!-- stats -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sindre0830&show_icons=true&count_private=true&theme=dark"/>
