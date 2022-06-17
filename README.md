@@ -11,10 +11,11 @@
     <img height=50 alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
     <img height=50 alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
     <img height=50 alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
+    <br>
     <img height=50 alt="Android Development" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
     <img height=50 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
     <img height=50 alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-    <img height=50 alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg"/>
+    <img height=50 alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
     <img height=50 alt="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>
     <img height=50 alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
     <img height=50 alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
