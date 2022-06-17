@@ -1,9 +1,11 @@
 <!-- about me -->
 <!-- GIF source: https://giphy.com/stickers/abu-dhabi-adnoc-energy-for-life-Qx5iidUF67vTlqa9s2 -->
-<img width="100" style="float: left" src="https://media2.giphy.com/media/Qx5iidUF67vTlqa9s2/giphy.gif?cid=ecf05e4793mhk85ij3ednhd26vvbmtvlssjjohhgc0vhdddb&rid=giphy.gif&ct=s"/>
-<h1 align="center" style="margin-right: 100px">About me</h1>
+<div>
+    <img width=100 style="float: left" src="https://media2.giphy.com/media/Qx5iidUF67vTlqa9s2/giphy.gif?cid=ecf05e4793mhk85ij3ednhd26vvbmtvlssjjohhgc0vhdddb&rid=giphy.gif&ct=s"/>
+    <h1 align="center" style="margin-right: 100px">About me</h1>
+</div>
 <!-- socials -->
-<div align="center">
+<div align="center" style="margin-right: 100px">
     <a src="https://www.linkedin.com/in/sindre0830/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
     <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
 </div>
