@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
 </p>
 <h6 align="center">
-I have a bachelor's degree in programming from NTNU, and I have applied for a Master's degree in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my bachleaors thesis, to get a more indepth understanding.
+I have a bachelor's degree in programming from NTNU, and I have applied for a master's degree in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my bachleaors thesis, to get a more indepth understanding.
 </h6>
 <!-- badges -->
 <p align="center">
