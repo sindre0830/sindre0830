@@ -6,8 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
 </div>
 <div align="center">
-I have a <a src="https://www.ntnu.no/studier/bprog">bachelor's degree</a> in programming from NTNU, and I have applied for a <a src="https://www.ntnu.no/studier/msit">master's degree</a> in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my <a src="https://github.com/sindre0830/Neural-Network-for-Recognizing-Features-in-Music">bachleaors thesis</a>, to get a more indepth understanding.
+    I have a <a src="https://www.ntnu.no/studier/bprog">bachelor's degree</a> in programming from NTNU, and I have applied for a <a src="https://www.ntnu.no/studier/msit">master's degree</a> in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my <a src="https://github.com/sindre0830/Neural-Network-for-Recognizing-Features-in-Music">bachleaors thesis</a>, to get a more indepth understanding.
 </div>
+<br>
 <!-- badges -->
 <div align="center">
     <img height=50 alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
