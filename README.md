@@ -35,6 +35,7 @@
         <img height=50 alt="Android Development" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
         <img height=50 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
         <img height=50 alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+        <img height=50 alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
         <img height=50 alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
         <img height=50 alt="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>
         <img height=50 alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
