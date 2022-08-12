@@ -9,8 +9,6 @@
     <!-- socials -->
     <div align="center">
         <a href="https://www.linkedin.com/in/sindre0830/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
-        <a href="https://stackoverflow.com/users/8849692/sindre0830?tab=profile"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-        <a href="https://www.reddit.com/user/Sindre0830"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
         <img src="https://komarev.com/ghpvc/?username=sindre0830&style=for-the-badge"/>
     </div>
     <br>
@@ -48,7 +46,6 @@
     <!-- stats -->
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=sindre0830&show_icons=true&count_private=true&theme=dark"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindre0830&theme=dark"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre0830&layout=compact&theme=dark"/>
     </div>
 </div>
