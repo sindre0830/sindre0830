@@ -45,7 +45,7 @@
     <br>
     <!-- stats -->
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sindre0830&show_icons=true&count_private=true&theme=dark"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre0830&layout=compact&theme=dark"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sindre0830&show_icons=true&count_private=true&theme=dark"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sindre0830&layout=compact&theme=dark"/>
     </div>
 </div>
