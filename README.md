@@ -27,6 +27,7 @@
         <img height=50 alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
         <img height=50 alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
         <img height=50 alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
+        <img height=50 alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/csharp-plain.svg"/>
         <img height=50 alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
         <img height=50 alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
         <img height=50 alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
