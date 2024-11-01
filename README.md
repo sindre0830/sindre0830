@@ -14,7 +14,7 @@
     <br>
     <!-- about me -->
     <div align="center">
-        I have a <a href="https://www.ntnu.no/studier/bprog">bachelor's degree</a> in programming from NTNU, and I'm currently taking a <a href="https://www.ntnu.no/studier/msit">master's degree</a> in artificial intelligence. I have an interest in machine learning and have worked on multiple machine learning projects, including my <a href="https://github.com/sindre0830/Neural-Network-for-Recognizing-Features-in-Music">bachelor's thesis</a>, to get a more in-depth understanding.
+        I have a <a href="https://www.ntnu.no/studier/bprog">bachelor's degree</a> in programming from NTNU, and I've recently completed my <a href="https://www.ntnu.no/studier/msit">master's degree</a> in artificial intelligence at the same institution. I have an interest in machine learning and have worked on multiple machine learning projects to get a more in-depth understanding.
     </div>
     <br>
     <!-- badges -->
